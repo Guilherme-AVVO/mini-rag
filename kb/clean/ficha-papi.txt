@@ -1,0 +1,26 @@
+AX-PAPI-4
+  Unidade de luz para sistema indicador de rampa de aproximação PAPI.
+
+Objetivo
+Informar ao piloto se a aeronave está acima, abaixo ou na rampa de
+aproximação correta, por meio de fachos de luz que mudam de branco
+para vermelho conforme o ângulo de observação.
+
+Fabricação
+Caixa em alumínio com 2 lâmpadas halógenas de 200 W / 6,6 A, lentes
+planoconvexas, filtro vermelho de vidro e pernas reguláveis com
+dispositivo frangível para nivelamento.
+
+Aplicação
+Cabeceiras de pistas de pouso. O sistema PAPI usa 4 unidades por
+cabeceira; o APAPI usa 2 unidades.
+
+Normas
+Normas técnicas nacionais: RBAC 154
+Normas técnicas internacionais: FAA L-880 / L-881
+
+Características
+Consumo por unidade: 400 W.
+Alcance visual diurno: 6 km.
+Transformador recomendado: AX-TI-300 (um por unidade).
+Peso por unidade: 27 kg.

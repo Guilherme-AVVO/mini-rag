@@ -1,0 +1,28 @@
+AX-BR-30
+  Baliza retrorrefletiva para sinalização de pista de táxi.
+
+Objetivo
+Delimitar as bordas de pistas de táxi e pátios em aeródromos sem
+balizamento elétrico, refletindo a luz dos faróis da aeronave para
+orientar o piloto durante o taxiamento noturno.
+
+Fabricação
+Corpo cilíndrico em polietileno de alta densidade com proteção UV,
+faixa retrorrefletiva de microprismas com 150 mm de altura e base
+flexível em borracha que permite o retorno à posição vertical após
+impacto. Acabamento na cor amarelo RAL 1023 para pista de táxi; a
+versão AX-BR-30-AZ sai na cor azul RAL 5015 para bordas de pátio.
+
+Aplicação
+Sinalização de bordas de pista de táxi e de pátio de aeronaves.
+
+Normas
+Normas técnicas nacionais: RBAC 154
+Normas técnicas internacionais: ICAO Anexo 14
+
+Características
+Dimensões: 300 mm de altura x 60 mm de diâmetro.
+Peso: 0,42 kg.
+Fixação: chumbador de aço inox M8 em base de concreto.
+Temperatura de operação: -15 °C a +55 °C.
+Garantia: 24 meses.

@@ -1,0 +1,26 @@
+AX-BE-12 / AX-BE-18
+  Base metálica para luminária ELEVADA (tipo FAA L-867).
+
+Objetivo
+Servir de caixa de passagem e suporte para luminárias elevadas de
+borda de pista e de pista de táxi, abrigando o transformador de
+isolamento e as conexões do circuito série.
+
+Fabricação
+Corpo em chapa de aço carbono de 2,5 mm, galvanizado a fogo por
+imersão, com flange superior de 300 mm de diâmetro e 6 furos
+roscados M10 para fixação da placa suporte. Possui entrada lateral
+para eletroduto de 2 polegadas e conector de aterramento.
+
+Aplicação
+Instalação de luminárias elevadas em terreno natural ou base de
+concreto.
+
+Normas
+Normas técnicas nacionais: RBAC 154
+Normas técnicas internacionais: FAA AC 150/5345-42 (L-867)
+
+Características
+Modelo AX-BE-12: altura 305 mm; peso 10,8 kg.
+Modelo AX-BE-18: altura 457 mm; peso 14,9 kg.
+Tampa cega: aço galvanizado 6 mm, vendida separadamente.

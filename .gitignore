@@ -1,0 +1,39 @@
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+
+# Go
+bin/
+dist/
+coverage.out
+*.test
+
+# Banco/dados locais
+pgdata/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs e temporários
+*.log
+tmp/
+temp/
+.DS_Store
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Backup do sandbox regulatorio (corpus antigo, fora do versionamento)
+kb/_backup_sandbox_*/
+
+# Pipeline de contexto: ignora dumps/coletas intermediarias, mantem os contextos gerados
+ctx_work/*
+!ctx_work/contextos.json
+
+# PDFs de entrada do pipeline (binarios; fonte oficial fora do repo)
+kb/pdf/

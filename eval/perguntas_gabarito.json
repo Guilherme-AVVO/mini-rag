@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "descricao": "Conjunto de avaliação do corpus FICTÍCIO de demonstração (kb/clean). Os valores não correspondem a produtos reais.",
+    "criterio_geral": "Resposta correta = contém o(s) valor(es)-chave de 'resposta_esperada'. Em 'fora_kb', acerto = dizer que a informação não consta, sem inventar.",
+    "campos": {
+      "chunk_gabarito": "chunk(s) que contêm a resposta, por documento e posição (ordem) — usado no Recall@k/MRR de cmd/eval.",
+      "categoria": "fato_exato | desambiguacao | tabela | raciocinio | conflito_fonte | fora_kb"
+    },
+    "total": 23
+  },
+  "perguntas": [
+    {
+      "id": "Q01",
+      "categoria": "fato_exato",
+      "pergunta": "Qual a cor (código RAL) da baliza retrorrefletiva de pista de táxi?",
+      "resposta_esperada": "Amarelo RAL 1023",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-baliza-retrorrefletiva",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q02",
+      "categoria": "fato_exato",
+      "pergunta": "Quais as dimensões da baliza retrorrefletiva?",
+      "resposta_esperada": "300 mm de altura x 60 mm de diâmetro",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-baliza-retrorrefletiva",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q03",
+      "categoria": "fato_exato",
+      "pergunta": "Quanto pesa a base metálica para luminária embutida?",
+      "resposta_esperada": "26,4 kg",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-base-embutida",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q04",
+      "categoria": "fato_exato",
+      "pergunta": "Qual o consumo da luminária de borda de pista em LED?",
+      "resposta_esperada": "18 W",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-luminaria-borda-led",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q05",
+      "categoria": "fato_exato",
+      "pergunta": "Quantos lampejos por minuto o farol rotativo emite?",
+      "resposta_esperada": "24 por minuto (12 brancos e 12 verdes)",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-farol-rotativo",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q06",
+      "categoria": "fato_exato",
+      "pergunta": "Qual o torque de aperto dos parafusos da base do farol rotativo?",
+      "resposta_esperada": "120 N.m, em 4 parafusos M16 de aço inox",
+      "chunk_gabarito": [
+        {
+          "documento": "manual-farol-rotativo",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q07",
+      "categoria": "fato_exato",
+      "pergunta": "Qual a resistência de aterramento máxima aceita na manutenção do farol?",
+      "resposta_esperada": "Menor que 10 ohms",
+      "chunk_gabarito": [
+        {
+          "documento": "manual-farol-rotativo",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q08",
+      "categoria": "fato_exato",
+      "pergunta": "Qual o alcance visual diurno da unidade PAPI?",
+      "resposta_esperada": "6 km",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-papi",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q09",
+      "categoria": "fato_exato",
+      "pergunta": "A que altura o captor do para-raios deve ficar em relação aos projetores do farol?",
+      "resposta_esperada": "1,5 metro acima dos projetores",
+      "chunk_gabarito": [
+        {
+          "documento": "manual-farol-rotativo",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q10",
+      "categoria": "desambiguacao",
+      "pergunta": "Quanto pesa a luminária de borda de pista halógena?",
+      "resposta_esperada": "2,3 kg (a versão LED pesa 1,9 kg)",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-luminaria-borda-halogena",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q11",
+      "categoria": "desambiguacao",
+      "pergunta": "Qual a espessura da chapa da base para luminária elevada?",
+      "resposta_esperada": "2,5 mm (a base embutida usa 6 mm)",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-base-elevada",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q12",
+      "categoria": "desambiguacao",
+      "pergunta": "Qual a vida útil da fonte de luz da luminária de borda halógena?",
+      "resposta_esperada": "1.000 horas (a LED tem 50.000 horas)",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-luminaria-borda-halogena",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q13",
+      "categoria": "desambiguacao",
+      "pergunta": "Qual a cor da baliza retrorrefletiva usada em borda de pátio?",
+      "resposta_esperada": "Azul RAL 5015 (versão AX-BR-30-AZ)",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-baliza-retrorrefletiva",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q14",
+      "categoria": "tabela",
+      "pergunta": "Qual a altura do mastro da biruta para heliponto elevado?",
+      "resposta_esperada": "1,8 m",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-biruta",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q15",
+      "categoria": "tabela",
+      "pergunta": "Quanto pesa o transformador de isolamento de 200 W?",
+      "resposta_esperada": "5,8 kg (AX-TI-200)",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-transformador-isolamento",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q16",
+      "categoria": "tabela",
+      "pergunta": "Qual o comprimento do cone da biruta para aeródromo visual?",
+      "resposta_esperada": "2,4 m",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-biruta",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q17",
+      "categoria": "raciocinio",
+      "pergunta": "Qual a potência total consumida por um sistema PAPI completo em uma cabeceira?",
+      "resposta_esperada": "1.600 W (4 unidades x 400 W)",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-papi",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q18",
+      "categoria": "raciocinio",
+      "pergunta": "Quantos transformadores AX-TI-300 são necessários para instalar PAPI nas duas cabeceiras de uma pista?",
+      "resposta_esperada": "8 (4 unidades por cabeceira, 1 transformador por unidade)",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-papi",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q19",
+      "categoria": "raciocinio",
+      "pergunta": "Quais as medidas do eixo do redutor do farol e quando ele deve ser trocado?",
+      "resposta_esperada": "30 mm de diâmetro, 280 mm de comprimento, parede de 4 mm; trocar com folga radial maior que 0,2 mm",
+      "chunk_gabarito": [
+        {
+          "documento": "manual-farol-rotativo",
+          "ordem": 1
+        }
+      ]
+    },
+    {
+      "id": "Q20",
+      "categoria": "conflito_fonte",
+      "pergunta": "Quais as dimensões da embalagem do farol rotativo?",
+      "resposta_esperada": "Ficha: 600 x 600 x 800 mm; manual: engradado de 600 x 900 x 300 mm. Deve sinalizar a divergência.",
+      "chunk_gabarito": [
+        {
+          "documento": "ficha-farol-rotativo",
+          "ordem": 0
+        },
+        {
+          "documento": "manual-farol-rotativo",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "Q21",
+      "categoria": "fora_kb",
+      "pergunta": "Qual o preço da luminária de borda em LED?",
+      "resposta_esperada": "Não consta no material fornecido.",
+      "chunk_gabarito": []
+    },
+    {
+      "id": "Q22",
+      "categoria": "fora_kb",
+      "pergunta": "Qual o prazo de entrega da unidade PAPI?",
+      "resposta_esperada": "Não consta no material fornecido.",
+      "chunk_gabarito": []
+    },
+    {
+      "id": "Q23",
+      "categoria": "fora_kb",
+      "pergunta": "Qual o grau de proteção IP da biruta?",
+      "resposta_esperada": "Não consta no material fornecido.",
+      "chunk_gabarito": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+AX-TI
+  Transformador de isolamento para circuito série de 6,6 A.
+
+Objetivo
+Isolar eletricamente cada luminária do circuito série primário,
+permitindo que a lâmpada seja trocada com o circuito energizado e
+que a falha de uma luminária não interrompa as demais.
+
+Fabricação
+Núcleo de aço silício de grão orientado, enrolamentos em cobre
+esmaltado e encapsulamento integral em borracha moldada à prova
+d'água. Cabos primários com conectores tipo plugue e receptáculo
+para 5 kV; cabo secundário com receptáculo de 2 pinos.
+
+Aplicação
+Circuitos série de balizamento luminoso de pistas, pistas de táxi
+e sistemas de aproximação.
+
+Normas
+Normas técnicas internacionais: FAA AC 150/5345-47 (L-830)
+
+Tabela de modelos
+Modelo        Potência   Corrente prim./sec.   Peso
+AX-TI-45      45 W       6,6 A / 6,6 A         3,1 kg
+AX-TI-65      65 W       6,6 A / 6,6 A         3,4 kg
+AX-TI-100     100 W      6,6 A / 6,6 A         4,2 kg
+AX-TI-200     200 W      6,6 A / 6,6 A         5,8 kg
+AX-TI-300     300 W      6,6 A / 6,6 A         7,3 kg
+
+Características
+Frequência: 60 Hz.
+Rigidez dielétrica do primário: 10 kV por 1 minuto.
+Temperatura de operação: -40 °C a +65 °C.

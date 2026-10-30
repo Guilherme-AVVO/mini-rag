@@ -1,0 +1,9 @@
+# qwen3.6-35b-teste — gerador do Mini RAG (tier pesado / MoE A3B)
+# Base: qwen3.6:35b (MoE ~3B ativos, ~24 GB, 256K ctx). Pesado mas rápido sob offload.
+# Criar:  ollama create qwen3.6-35b-teste -f qwen3.6-35b-teste.Modelfile
+FROM qwen3.6:35b
+PARAMETER temperature 0.1
+PARAMETER top_p 0.9
+PARAMETER top_k 20
+PARAMETER repeat_penalty 1.05
+PARAMETER num_ctx 16384

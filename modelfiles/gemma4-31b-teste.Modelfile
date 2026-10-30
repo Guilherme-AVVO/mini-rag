@@ -1,0 +1,9 @@
+# gemma4-31b-teste — gerador do Mini RAG (tier pesado / denso)
+# Base: gemma4:31b (denso, ~20 GB, 256K ctx). Thinking opcional via <|think|> no system prompt (fica no código Go).
+# Criar:  ollama create gemma4-31b-teste -f gemma4-31b-teste.Modelfile
+FROM gemma4:31b
+PARAMETER temperature 0.1
+PARAMETER top_p 0.9
+PARAMETER top_k 20
+PARAMETER repeat_penalty 1.05
+PARAMETER num_ctx 16384

@@ -1,0 +1,10 @@
+# qwen3-8b-teste — modelo dos AGENTES (Pesquisador/Redator) do modo 2-agentes
+# Base: qwen3:8b (denso, ~5.2 GB — cabe 100% na VRAM da RTX 3060 junto do bge-m3).
+# Tool calling/saída estruturada confiáveis; /no_think é aplicado pelo código (internal/llm).
+# Criar:  ollama create qwen3-8b-teste -f qwen3-8b-teste.Modelfile
+FROM qwen3:8b
+PARAMETER temperature 0.1
+PARAMETER top_p 0.9
+PARAMETER top_k 20
+PARAMETER repeat_penalty 1.05
+PARAMETER num_ctx 16384

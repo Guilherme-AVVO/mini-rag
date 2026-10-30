@@ -1,0 +1,26 @@
+AX-FR-01
+  Farol rotativo de aeródromo.
+
+Objetivo
+Indicar a localização do aeródromo à noite por meio de lampejos
+alternados nas cores branca e verde.
+
+Fabricação
+Cabeça óptica em alumínio fundido com 2 projetores LED de 150 W,
+motor de rotação de 12 rpm com redutor blindado e base giratória
+em rolamento selado.
+
+Aplicação
+Instalação em torre metálica ou sobre edificação, no ponto mais
+alto do aeródromo.
+
+Normas
+Normas técnicas nacionais: RBAC 154
+Normas técnicas internacionais: FAA L-801A
+
+Características
+Lampejos: 24 por minuto (12 brancos e 12 verdes).
+Alimentação: 220 V, 60 Hz.
+Consumo: 320 W.
+Dimensões da embalagem: 600 x 600 x 800 mm.
+Peso: 48 kg.

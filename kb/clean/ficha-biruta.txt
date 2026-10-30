@@ -1,0 +1,32 @@
+AX-BIR-LED
+  Indicador de direção de vento (biruta) iluminado com LED.
+
+Objetivo
+Indicar ao piloto a direção e a intensidade aproximada do vento na
+superfície, de dia e à noite.
+
+Fabricação
+Mastro em tubo de aço galvanizado com articulação basculante para
+manutenção, cesto giratório em aço inox 304, rolamentos blindados e
+cone de vento em tecido de poliéster nas cores laranja e branco.
+Iluminação por 4 projetores LED de 20 W cada, alimentados pelo
+circuito série de 6,6 A através de transformador de isolamento.
+
+Aplicação
+Aeródromos e helipontos.
+
+Normas
+Normas técnicas nacionais: RBAC 154
+Normas técnicas internacionais: FAA L-806 / L-807
+
+Tabela de dimensões por tipo de instalação
+Tipo de instalação          Comprimento do cone   Diâmetro da boca   Altura do mastro
+Aeródromo por instrumento   3,6 m                 0,90 m             6,0 m
+Aeródromo visual            2,4 m                 0,60 m             4,5 m
+Heliponto ao nível do solo  2,4 m                 0,60 m             3,0 m
+Heliponto elevado           1,2 m                 0,30 m             1,8 m
+
+Características
+Consumo total da iluminação: 80 W.
+Velocidade de vento para extensão total do cone: 15 nós.
+Temperatura de operação: -20 °C a +60 °C.

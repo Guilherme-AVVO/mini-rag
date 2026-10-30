@@ -1,0 +1,26 @@
+AX-BI-12
+  Base metálica para luminária EMBUTIDA (tipo FAA L-868).
+
+Objetivo
+Suportar luminárias embutidas instaladas no pavimento da pista,
+resistindo ao tráfego de aeronaves e de veículos pesados de apoio.
+
+Fabricação
+Corpo em chapa de aço carbono de 6 mm de espessura, galvanizado a
+fogo, com flange superior de 3/4 de polegada, anel de ajuste de
+altura e 2 entradas para eletroduto de 2 polegadas. A tampa de
+proteção para a fase de obra acompanha a base.
+
+Aplicação
+Instalação de luminárias embutidas de eixo de pista, zona de toque
+e pista de táxi em pavimento rígido ou flexível.
+
+Normas
+Normas técnicas nacionais: RBAC 154
+Normas técnicas internacionais: FAA AC 150/5345-42 (L-868)
+
+Características
+Diâmetro do flange: 305 mm.
+Altura: 300 mm.
+Peso: 26,4 kg.
+Carga suportada: 22,7 t por roda (ensaio estático).

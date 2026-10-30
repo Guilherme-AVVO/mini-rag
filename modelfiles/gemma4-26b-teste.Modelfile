@@ -1,0 +1,9 @@
+# gemma4-26b-teste — gerador do Mini RAG (tier médio / MoE — por isso segura ~30 tok/s sob offload)
+# Base: gemma4:26b (MoE, ~18 GB). Reconstruído a partir das Regras do vault — confirmar se bate com o modelo atual.
+# Criar:  ollama create gemma4-26b-teste -f gemma4-26b-teste.Modelfile
+FROM gemma4:26b
+PARAMETER temperature 0.1
+PARAMETER top_p 0.9
+PARAMETER top_k 20
+PARAMETER repeat_penalty 1.05
+PARAMETER num_ctx 16384

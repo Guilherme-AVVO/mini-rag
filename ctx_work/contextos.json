@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "contexto": "Ficha técnica da baliza retrorrefletiva AX-BR-30 (sinalização passiva de bordas de pista de táxi e pátio): fabricação em polietileno, cores amarelo RAL 1023 e azul RAL 5015, normas, dimensões 300 x 60 mm, peso e temperatura.",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 2,
+    "contexto": "Ficha técnica da base metálica para luminária ELEVADA AX-BE-12/AX-BE-18 (FAA L-867): chapa de 2,5 mm galvanizada, flange de 300 mm, normas e alturas/pesos dos dois modelos.",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 3,
+    "contexto": "Ficha técnica da base metálica para luminária EMBUTIDA AX-BI-12 (FAA L-868): chapa de 6 mm para tráfego de aeronaves, flange de 3/4 pol., diâmetro, altura, peso de 26,4 kg e carga suportada.",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 4,
+    "contexto": "Ficha técnica da biruta iluminada AX-BIR-LED: fabricação, iluminação LED no circuito de 6,6 A, normas e TABELA de comprimento do cone, diâmetro da boca e altura do mastro por tipo de instalação (aeródromo e heliponto).",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 5,
+    "contexto": "Ficha técnica do farol rotativo de aeródromo AX-FR-01: projetores LED, rotação, normas, lampejos por minuto, alimentação, consumo, dimensões da embalagem e peso.",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 6,
+    "contexto": "Ficha técnica da luminária elevada de borda de pista HALÓGENA AX-LB-HAL (FAA L-861): lâmpada de 45 W, consumo, vida útil da lâmpada, altura, peso de 2,3 kg e temperatura.",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 7,
+    "contexto": "Ficha técnica da luminária elevada de borda de pista em LED AX-LB-LED (FAA L-861): módulo LED, consumo de 18 W, vida útil de 50.000 h, altura, peso de 1,9 kg e temperatura.",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 8,
+    "contexto": "Ficha técnica da unidade de luz PAPI AX-PAPI-4 (FAA L-880/L-881): lâmpadas de 200 W, unidades por cabeceira (PAPI 4, APAPI 2), consumo por unidade, alcance, transformador recomendado e peso.",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 9,
+    "contexto": "Ficha técnica do transformador de isolamento AX-TI (FAA L-830) para circuito série de 6,6 A: fabricação, normas e TABELA de modelos com potência e peso (45 W a 300 W).",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 10,
+    "contexto": "Manual de instalação e manutenção do farol rotativo AX-FR-01, capítulos I a III e início do IV: recebimento e dimensões do engradado, local, torre metálica, fixação e torque, aterramento/SPDA e altura do para-raios, acionamento e manutenção preventiva.",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  },
+  {
+    "id": 11,
+    "contexto": "Manual do farol rotativo AX-FR-01, final do capítulo IV e capítulo V: medidas do eixo do redutor e critério de troca, e pesquisa de defeitos (farol não gira, projetor apagado).",
+    "modelo_ctx": "claude-opus (escrito a partir do export, revisado manualmente)"
+  }
+]

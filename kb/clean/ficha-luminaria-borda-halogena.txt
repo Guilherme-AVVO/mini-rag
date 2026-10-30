@@ -1,0 +1,27 @@
+AX-LB-HAL
+  Luminária elevada de média intensidade para borda de pista, halógena.
+
+Objetivo
+Delimitar as bordas laterais da pista de pouso durante operações
+noturnas em aeródromos que mantêm circuito com lâmpadas halógenas.
+
+Fabricação
+Corpo em alumínio fundido com pintura eletrostática amarela, globo
+em vidro borossilicato, lâmpada halógena de 45 W / 6,6 A com
+soquete de porcelana e acoplamento frangível. Lentes nas cores
+branca, amarela ou vermelha conforme a posição na pista.
+
+Aplicação
+Borda de pista de pouso e cabeceiras em aeródromos com operação
+visual.
+
+Normas
+Normas técnicas nacionais: RBAC 154
+Normas técnicas internacionais: FAA L-861
+
+Características
+Consumo: 45 W.
+Vida útil média da lâmpada: 1.000 horas.
+Altura total: 360 mm.
+Peso: 2,3 kg.
+Temperatura de operação: -40 °C a +55 °C.

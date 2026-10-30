@@ -1,0 +1,9 @@
+# gemma4-12b-teste — gerador PADRÃO do Mini RAG (tier leve / denso, cabe 100% na VRAM)
+# Base: gemma4:12b (denso, ~7.6 GB). Reconstruído a partir das Regras do vault — confirmar se bate com o modelo atual.
+# Criar:  ollama create gemma4-12b-teste -f gemma4-12b-teste.Modelfile
+FROM gemma4:12b
+PARAMETER temperature 0.1
+PARAMETER top_p 0.9
+PARAMETER top_k 20
+PARAMETER repeat_penalty 1.05
+PARAMETER num_ctx 16384

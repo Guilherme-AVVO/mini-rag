@@ -1,0 +1,27 @@
+AX-LB-LED
+  Luminária elevada de média intensidade para borda de pista, em LED.
+
+Objetivo
+Delimitar as bordas laterais da pista de pouso durante operações
+noturnas e em condições de baixa visibilidade.
+
+Fabricação
+Corpo em alumínio fundido com pintura eletrostática amarela, globo
+em vidro borossilicato, módulo LED com driver próprio para corrente
+de 2,8 A a 6,6 A e acoplamento frangível que rompe sob impacto.
+Lentes nas cores branca, amarela ou vermelha conforme a posição na
+pista.
+
+Aplicação
+Borda de pista de pouso de aeródromos com operação visual.
+
+Normas
+Normas técnicas nacionais: RBAC 154
+Normas técnicas internacionais: FAA L-861
+
+Características
+Consumo: 18 W.
+Vida útil estimada do LED: 50.000 horas.
+Altura total: 360 mm.
+Peso: 1,9 kg.
+Temperatura de operação: -40 °C a +55 °C.

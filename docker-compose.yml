@@ -1,0 +1,25 @@
+# Banco vetorial do RAG — PostgreSQL 17 + pgvector (imagem oficial).
+# Subir:   docker compose up -d
+# Logs:    docker compose logs -f db
+# Parar:   docker compose down          (mantém os dados no volume)
+# Zerar:   docker compose down -v        (APAGA os dados → init roda de novo)
+
+services:
+  db:
+    image: pgvector/pgvector:pg17        # Postgres 17 com pgvector já compilado
+    container_name: mini-rag-db
+    restart: unless-stopped
+    env_file: .env                       # POSTGRES_USER / PASSWORD / DB / PORT
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data            # persistência dos dados
+      - ./db/init:/docker-entrypoint-initdb.d:ro   # cria extensão + tabela na 1ª subida
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  pgdata:

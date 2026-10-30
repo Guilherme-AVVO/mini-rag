@@ -1,0 +1,64 @@
+Manual de instalação e manutenção
+Farol rotativo de aeródromo AX-FR-01
+
+I – APRESENTAÇÃO
+
+1.1 Escopo
+Este manual descreve o recebimento, a instalação, a operação e a
+manutenção do farol rotativo AX-FR-01. Leia todo o documento antes
+de iniciar a instalação.
+
+1.2 Recebimento
+O equipamento é entregue em engradado de madeira com dimensões de
+600 x 900 x 300 mm. Confira o conteúdo: cabeça óptica, base
+giratória, chave de comando e este manual.
+
+II – INSTALAÇÃO
+
+2.1 Local
+Instale o farol no ponto mais alto do aeródromo, de forma que nenhum
+obstáculo bloqueie o facho em 360 graus.
+
+2.2 Torre metálica
+A torre deve ter plataforma de no mínimo 1,2 x 1,2 m, guarda-corpo
+e escada com proteção. O topo da torre deve ficar a pelo menos 6 m
+do solo.
+
+2.3 Fixação
+Fixe a base giratória na plataforma com 4 parafusos M16 de aço inox,
+aplicando torque de 120 N.m. Verifique o nivelamento com nível de
+bolha antes do aperto final.
+
+2.4 Aterramento e SPDA
+Ligue a carcaça à malha de aterramento com cabo de cobre nu de
+35 mm². O captor do para-raios deve ficar 1,5 metro acima dos
+projetores.
+
+III – OPERAÇÃO
+
+3.1 Acionamento
+O farol é ligado pela chave de comando local ou remotamente pelo
+painel de controle do balizamento. Ao ligar, aguarde 10 segundos
+para a rotação estabilizar.
+
+IV – MANUTENÇÃO
+
+4.1 Manutenção preventiva
+A cada 6 meses: limpe as lentes, verifique o aperto dos parafusos da
+base e meça a resistência de aterramento, que deve ser menor que
+10 ohms. A cada 12 meses: troque a graxa do redutor.
+
+4.2 Eixo do redutor
+O eixo de saída do redutor tem 30 mm de diâmetro, 280 mm de
+comprimento e parede de 4 mm. Substitua o eixo se houver folga
+radial maior que 0,2 mm.
+
+V – PESQUISA DE DEFEITOS
+
+5.1 Farol não gira
+Verifique o fusível de 4 A do motor e a tensão de alimentação de
+220 V no borne de entrada.
+
+5.2 Projetor apagado
+Meça a tensão no driver do projetor. Se estiver normal, substitua o
+módulo LED.
